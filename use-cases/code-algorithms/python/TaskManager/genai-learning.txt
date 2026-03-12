@@ -1,0 +1,23 @@
+Generative AI Course – What I Learned
+
+During the Generative AI course, I learned the fundamentals of how artificial intelligence can generate content such as text and code.
+
+Key things I learned include:
+
+1. Introduction to Generative AI
+I learned that Generative AI is a type of artificial intelligence that creates new content instead of only analyzing data. Examples include AI that can generate text, images, music, and code.
+
+2. How AI Models Work
+I gained an understanding of how large language models are trained using large datasets to recognize patterns and generate human-like responses.
+
+3. Prompt Engineering
+I learned how to write clear and specific prompts to get better responses from AI systems. Good prompts help AI produce more accurate and useful outputs.
+
+4. Practical Applications
+The course showed how Generative AI can be used in many fields such as software development, content creation, education, and automation.
+
+5. Responsible Use of AI
+I also learned the importance of using AI responsibly, including understanding ethical considerations, bias, and data privacy.
+
+Conclusion
+This course helped me understand how Generative AI works and how it can be used as a tool to improve productivity and creativity. I am excited to continue learning more about AI and applying these skills in my future projects.
